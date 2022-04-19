@@ -8,8 +8,8 @@
   1.0 - релиз
 */
 
-#define LED_PIN D1    // пин ленты
-#define BTN_PIN D2    // пин кнопки
+#define LED_PIN D3    // пин ленты
+#define BTN_PIN D16    // пин кнопки
 #define PIR_PIN D5    // пин PIR (ИК датчика)
 #define LED_AMOUNT 30 // кол-вл светодиодов
 #define BTN_LEVEL 1   // 1 - кнопка подключает VCC, 0 - подключает GND
